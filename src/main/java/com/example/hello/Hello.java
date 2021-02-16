@@ -3,7 +3,7 @@ public class Hello {
     public static void main(String[] args) throws Exception {
         while (true) {
             new Hello().hello();
-            Thread.sleep(2000);
+            Thread.sleep(10000);
         }
     }
 
